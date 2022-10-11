@@ -1,4 +1,4 @@
-# LLPR-Praticas
+# LLPR-Práticas
 
 Práticas Relacionadas a Lógica e Linguagem de Programação.
 
