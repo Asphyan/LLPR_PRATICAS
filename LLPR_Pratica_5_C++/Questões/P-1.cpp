@@ -13,7 +13,7 @@ int main() {
 	
 	minutos= min*60;
 	
-	printf("Sua Convers√£o foi igual a: %d", minutos);
+	printf("Sua Convers„o foi igual a: %d", minutos);
 	
 	return 0;
 }
