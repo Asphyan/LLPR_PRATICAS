@@ -4,12 +4,12 @@
 int main() {
 	setlocale(LC_ALL, "Portuguese_Bazil");
 	
-	printf("\n\nConversor De Minutos Para Segundos");
+	printf("Conversor De Minutos Para Segundos\n\n");
 	
 	int min, minutos;
 	
 	printf("Digite os minutos a serem convertidos: ");
-	scanf("%d", min);
+	scanf("%d", &min);
 	
 	minutos= min*60;
 	
