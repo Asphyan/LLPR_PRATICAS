@@ -20,7 +20,7 @@ Faça um programa que leia as variáveis a, b e c e imprima os valores das quatr
   I- (A*B)/C; 
   II- A^2+B+5*C; 
   III- A*B*C+B+C/3*5-1;
-  IV- (A*B*C)^3/
+  IV- (A*B*C)^3/2
   
 4- IMC
   
