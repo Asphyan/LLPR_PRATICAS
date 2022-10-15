@@ -4,7 +4,7 @@
 int main () {
     setlocale(LC_ALL, "Portuguese_Brazil");
 
-    printf("MAIOR IDADE");
+    printf("MAIOR IDADE\n\n");
 
     int idade;
 
