@@ -1,6 +1,6 @@
 #QUESTÕES
 
-1 - PROGRAMA PARA DECIDIR SE ALGUÉM É MAIOR DE IDADE.
+1 - Programa para decidir se alguém é maior de idade.
 
 I. O usuário executa o programa.
 II. O programa fica esperando que o usuário digite um número correspondendo a idade da pessoa.
