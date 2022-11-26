@@ -1,18 +1,19 @@
 #include <stdio.h>
 #include <locale.h>
+
 int main() { 
 	setlocale(LC_ALL, "Portuguese_Brazil");
 	
-	int n;
+	int n, a, num;
 	
-	printf("SOMADOR DO NÚMERO ESPECIFICADO\n\n");
+	printf("SOMADOR DOS ANTERIORES DO NÃšMERO ESPECIFICADO\n\n");
 	
-	printf("Digite um número")
-	scanf("%d", &n);
+	printf("Digite o nÃºmero: ");
+	scanf("%d", &a);
 	
-	for(int n;  ; n) {
-		printf("%d", n);
+	for(int n; n<=a ; n++) {
+		num=n*(n+1)/2;
 	}
-    
-    return 0;
+    	printf("\nResultado: %d", num);
+    	return 0;
 }
